@@ -113,7 +113,7 @@ public class Test {
 			
 		case METHODS.USING_MODULUS:
 			value = ( n + 1 ) % 2;
-            break;
+                        break;
 			
 			
 		case METHODS.USING_XOR:
