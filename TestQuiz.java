@@ -1,8 +1,4 @@
 /**
- * 
- */
-
-/**
  * @author Balwinder
  * 
  */
@@ -14,7 +10,6 @@ public class Test {
 		int USING_SUBSTRACTION =3;
 		int USING_XOR = 4;
 		int USING_ARRAY = 5;
-
 	}
 
 	/**
@@ -35,7 +30,6 @@ public class Test {
 			}
 			System.out.println();
 		}
-
 	}
 
 	/**
